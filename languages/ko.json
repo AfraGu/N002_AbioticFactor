@@ -1,0 +1,199 @@
+{
+  "page_title": "Abiotic Factor 가이드 - 완전한 게임 가이드 & 맵",
+  "page_description": "워크스루, 맵, 팁 및 서바이벌 전략을 포함한 Abiotic Factor 게임의 완전한 가이드.",
+  
+  "site_title": "Abiotic Factor 가이드",
+  "select_language": "언어 선택",
+  "english": "English",
+  
+  "nav_introduction": "소개",
+  "nav_main_process": "메인 프로세스",
+  "nav_guide_map": "가이드 맵",
+  "nav_valuation": "리뷰",
+  
+  "intro_title": "2025년 가장 인기 있는 서바이벌 게임!",
+  "intro_description": "Abiotic Factor는 플레이어가 지하 연구 시설 깊숙한 곳에서 생존하고 번영하도록 도전하는 서바이벌 크래프팅 경험입니다. 현실적인 서바이벌 메커니즘, 팀 기반 진행 및 풍부한 연구 옵션 컬렉션에 중점을 둔 Abiotic Factor는 플레이어가 비디오 게임에서 과학자처럼 생각하도록 합니다.",
+  "intro_release_date": "게임은 2024년 5월 2일 얼리 액세스로 출시되었습니다. 정식 출시는 2025년 봄 PC와 콘솔을 대상으로 예정되어 있습니다.",
+  
+  "video_title": "Abiotic Factor - 1.0 출시 트레일러",
+  "version_available": "1.0 현재 이용 가능",
+  "youtube_link": "YouTube",
+  
+  "main_process_title": "메인 프로세스",
+  
+  "step_game_settings": "게임 설정",
+  "initial_setup": "초기 설정",
+  "choosing_jobs": "직업과 특성 선택",
+  "character_stats": "캐릭터 스탯",
+  "onboarding": "온보딩",
+  "training": "훈련",
+  "crafting_keypad": "키패드 제작",
+  "before_tier_2": "티어 2 이전",
+  "using_workbench": "워크벤치 사용",
+  
+  "step_office_sector": "사무실 섹터",
+  "opening_cafeteria": "카페테리아 문 열기",
+  "cooking_basic_food": "기본 음식 요리",
+  "building_home_base": "홈 베이스 건설",
+  "crossing_nuclear_gad": "핵 장치 통과",
+  "zombie_portal_world": "좀비 포털 월드",
+  
+  "step_manufacture": "제조구",
+  "crafting_keypad_tier2": "키패드 해커 티어 2 제작",
+  "flooded_office": "각 경로는 다른 슈트와 초기 속성 포인트에 해당합니다. 스킬은 긍정적인 이익과 단점을 모두 가지고 있습니다",
+  "mycofields": "선택한 조합에 따라 달라집니다.",
+  "flathill": "좀비 Flathill이 차단되어 있으며",
+  "poison_security": "구석에 있고 연구 사이트에서 두 번째로 좋습니다",
+  "accessing_electronic": "전자기기 접근",
+  "containing_security_bots": "보안 봇 격리 절차",
+  "obtaining_items": "Tarasque 아이템 획득",
+  "flathill_section": "Flathill",
+  "advanced_barn_agent": "고급 헛간 에이전트",
+  
+  "step_laboratories": "실험실",
+  "crafting_keypad_tier3": "키패드 해커 티어 3 제작",
+  "labs_area": "좀비 Flathill 레벨의 실험실",
+  "lab_assistant": "\"실험실 조수\" 직업을 선택하는 것이 좋습니다. 전반적인 능력이 상대적으로 균형 잡혀 있으며 미션 완료를 위한 이상적인 도구입니다.",
+  "providing_security": "박사에게 보안 시스템 제공",
+  "connecting_power": "전력 연결 및 미지의 표본 포획",
+  
+  "to_be_continued": "계속될 예정...",
+  
+  "detailed_walkthrough_title": "상세한 워크스루",
+  
+  "walkthrough_initial_setup": "1. 초기 설정",
+  "walkthrough_setup_desc": "월드 이름, 언어, 시스템 구성, 대기 이름 및 기타 설정을 포함한 매개변수를 수행할 때.",
+  
+  "walkthrough_office_sector": "2. 사무실 섹터",
+  "walkthrough_office_desc": "각 경로는 다른 슈트와 초기 속성 포인트에 해당합니다. 스킬은 선택한 조합에 따라 긍정적인 이익과 단점을 모두 가지고 있습니다. 좀비 Flathill이 차단되어 구석에 있고 연구 사이트에서 두 번째로 좋습니다.",
+  
+  "walkthrough_manufacture": "3. 제조구",
+  "walkthrough_manufacture_desc": "각 경로는 다른 슈트와 초기 속성 포인트에 해당합니다. 스킬은 선택한 조합에 따라 긍정적인 이익과 단점을 모두 가지고 있습니다. 좀비 Flathill이 차단되어 구석에 있고 연구 사이트에서 두 번째로 좋습니다.",
+  
+  "walkthrough_laboratories": "4. 실험실",
+  "walkthrough_laboratories_desc": "\"실험실 조수\" 직업을 선택하는 것이 좋습니다. 전반적인 능력이 상대적으로 균형 잡혀 있으며 미션 완료를 위한 이상적인 도구입니다.",
+  
+  "walkthrough_continued": "5. 계속될 예정",
+  "walkthrough_continued_desc": "게임에서 테스트하고, 마시고, 화장실을 사용하고, 잠을 자고, 부상을 치료할 수 있는 게임 속성. 선택과 경험에 의해 게임에서 변경될 수 있는 게임 속성과 화장실 전략을 선택하는 방법.",
+  
+  "guide_map_title": "가이드 맵",
+  "office_sector": "사무실 섹터",
+  
+  "valuation_title": "리뷰",
+  
+  "review1_content": "이거 정말 현재 온라인에서 내가 가장 좋아하는 게임 중 하나야. Half Life, SCP 같은 게임에서 영감받은 서바이벌 어드벤처 게임을 할 수 있다면 Half Life처럼 플레이되는데, 어두운 분위기에 재미있는 메커니즘까지 있어서 정말 좋아.",
+  "review1_date": "1주 전",
+  
+  "review2_content": "이런 게임은 정말 계속 플레이하고 싶어져. 스토리, 디자인, 게임플레이 모든 게 훌륭해. 정말 좋다!",
+  "review2_date": "6일 전",
+  
+  "review3_content": "지난 10년간 이 장르 최고의 게임 중 하나지. 심층적인 게임플레이, 탐험, 스토리, 진행 시스템으로 많은 AAA 타이틀들과 어깨를 나란히 할 수 있어.",
+  "review3_date": "5일 전",
+  
+  "review4_content": "게임은 괜찮을 수도 있지만 게임 패스나 플레이스테이션 플러스에서 더 많은 사람들이 플레이하려고 할 때 가격을 올리는 건 말도 안 돼. 이제 인정받을 자격이 없는 최악의 개발자들이야.",
+  "review4_date": "1주 전",
+  
+  "review5_content": "더 깊은 스토리와 서바이벌 요소가 있는 Half-life 1이야. 엄청나게 재미있게 플레이하고 있어.",
+  "review5_date": "1주 전",
+  
+  "footer_description": "목표를 달성할 수 없을 때 도움이 되는 친근한 가이드 웹사이트입니다.",
+  "game_title": "게임",
+  "language_title": "언어",
+  "footer_copyright": "Abiotic Factor 가이드. 모든 권리 보유.",
+  
+  "loading": "로딩 중...",
+  
+  "card_game_settings": "(1) 게임 설정",
+  "card_initial_setup": "초기 설정",
+  "card_choosing_jobs": "직업과 특성 선택",
+  "card_onboarding": "온보딩",
+  "card_training": "트레이닝",
+  
+  "card_office_sector": "(2) 오피스 섹터",
+  "card_opening_cafeteria": "카페테리아 문 열기",
+  "card_building_home": "베이스 건설",
+  "card_obtaining_power": "레벨 3 배터리 획득",
+  "card_crafting_tier1": "키패드 해커 티어 1 제작",
+  "card_entering_flathill": "플랫힐 진입",
+  
+  "card_manufacture": "(3) 제조구",
+  "card_crafting_tier2": "키패드 해커 티어 2 제작",
+  "card_finding_frake": "프레이크 찾기",
+  "card_repairing_pumps": "전자 펌프 수리",
+  
+  "card_laboratories": "(4) 실험실",
+  "card_crafting_tier3": "키패드 해커 티어 3 제작",
+  "card_zombie_portal": "좀비 포털 월드",
+  "card_leyak_essence": "레야크 에센스 획득",
+  "card_rescue_kahn": "보안 시스템 리셋으로 칸 박사 구출",
+  "card_tarasque_pus": "타라스크 고름 획득",
+  "card_mycofields": "마이코필드 + 안테버스 연소제",
+  
+  "card_continued": "(5) 계속됨",
+  "card_security_sector": "보안 섹터 - 가나안",
+  "card_cloud_reactor": "클라우드 리액터",
+  "card_mist_reactor": "미스트 리액터",
+  "card_gale_reactor": "게일 리액터",
+  "card_botanical_wing": "식물원",
+  "card_cold_fusion": "저온 핵융합",
+  
+  "dw_nav_settings": "(1) 게임 설정",
+  "dw_nav_office": "(2) 오피스 섹터",
+  "dw_nav_manufacture": "(3) 제조구",
+  "dw_nav_labs": "(4) 실험실",
+  "dw_nav_continued": "(5) 계속됨",
+  
+  "dw_panel_settings": "(1) 게임 설정",
+  "dw_initial_setup": "1. 초기 설정",
+  "dw_initial_setup_desc": "월드 이름, 언어, 시스템 구성, 대기 화면 등 선호하는 매개변수를 구성하세요.",
+  "dw_choosing_jobs": "2. 직업과 특성 선택",
+  "dw_choosing_jobs_desc": "각 직업은 다른 스킬과 초기 속성 포인트에 해당합니다. 스킬은 긍정적인 이점과 부정적인 영향을 모두 가집니다. 플레이 스타일에 맞는 직업을 선택할 수 있습니다.\\n\"실험실 어시스턴트\" 직업을 선택하는 것을 권장합니다. 전반적인 능력이 상대적으로 균형적이며 이 세계의 설정에 가장 적합한 핵심 역할입니다.",
+  "dw_game_simulation": "이 게임은 실제 생활을 시뮬레이션합니다 - 플레이어는 게임에서 먹고, 마시고, 화장실을 사용하고, 잠자고, 부상을 치료해야 합니다. 캐릭터의 스태미나 상태에 주의하세요.",
+  "dw_onboarding": "3. 온보딩",
+  "dw_onboarding_desc": "이 단계는 스토리 진행을 따릅니다. 직업을 선택한 후, 랜스가 사막의 황폐한 지역으로 데려다 줄 것입니다. 직진하면 작은 오두막을 볼 수 있습니다.",
+  "dw_training": "4. 트레이닝",
+  "dw_training_desc": "회사에 들어간 후, 누군가가 트레이닝을 제공할 것입니다. 게임플레이에 익숙해지기 위해 간단한 조작을 수행해야 합니다.",
+  
+  "dw_panel_office": "(2) 오피스 섹터",
+  "dw_opening_cafeteria": "1. 카페테리아 문 열기",
+  "dw_opening_cafeteria_desc": "트레이닝이 중간에 중단되고, 오피스 섹터의 카페테리아로 보내질 것입니다. 여기서 첫 번째 과학자 NPC를 만날 것입니다.",
+  "dw_building_home": "2. 홈 베이스 건설",
+  "dw_building_home_desc": "카페테리아를 떠나 오피스 섹터의 중심으로 오세요. 이곳은 전체 게임 맵의 중심이기도 합니다.",
+  "dw_obtaining_power_cell": "3. 레벨 3에서 파워 셀 획득",
+  "dw_obtaining_power_cell_desc": "현재 우리는 레벨 2에 있습니다. 모든 계단과 엘리베이터가 차단되어 있습니다. 침수된 사무실을 찾아야 합니다.",
+  "dw_crafting_tier1": "4. 키패드 해커 (티어 1) 제작",
+  "dw_crafting_tier1_desc": "레벨 3의 메이필드 박사는 보안 로봇의 CPU를 사용하여 키패드 해커 (티어 1)를 제작할 수 있다고 말합니다.",
+  "dw_entering_flathill": "5. 플랫힐 진입",
+  "dw_entering_flathill_desc": "파워 셀을 획득하고, 키패드 해커를 사용하여 레벨 3의 키패드 문을 여세요.",
+  
+  "dw_panel_manufacture": "(3) 제조구",
+  "dw_crafting_tier2": "1. 키패드 해커 (티어 2) 제작",
+  "dw_crafting_tier2_desc": "파워 셀을 지게차에 넣으면 제조 서부 문이 천천히 올라갑니다.",
+  "dw_finding_frake": "2. 프레이크 찾기",
+  "dw_finding_frake_desc": "키패드 해커 (티어 2)를 제작한 후, 대장장이에서 위로 올라가세요.",
+  "dw_repairing_pumps": "3. 전자 펌프 수리",
+  "dw_repairing_pumps_desc": "전자 펌프 수리는 대장장이와 세 개의 부품을 교환해야 합니다.",
+  
+  "dw_panel_labs": "(4) 실험실",
+  "dw_crafting_tier3": "1. 키패드 해커 (티어 3) 제작",
+  "dw_crafting_tier3_desc": "큰 구멍에 들어가면 격리 블록으로 이동합니다.",
+  "dw_zombie_portal": "2. 좀비 포털 월드",
+  "dw_zombie_portal_desc": "포털 월드에 들어가기 전에 세 개의 다리와 다양한 조명 도구를 준비하는 것이 권장됩니다.",
+  "dw_obtaining_leyak": "3. 레야크 에센스 획득",
+  "dw_obtaining_leyak_desc": "이 방에는 네 개의 레야크 에센스가 필요한 잠긴 문이 있습니다.",
+  "dw_rescue_kahn": "4. 보안 시스템 리셋으로 칸 박사 구출",
+  "dw_rescue_kahn_desc": "참고: 여기서는 강력한 화력과 점프 부스트 장치를 준비하는 것이 권장됩니다.",
+  "dw_obtaining_tarasque": "5. 타라스크 고름 획득",
+  "dw_obtaining_tarasque_desc": "참고: 이것은 보스 전투를 포함하므로 전기 스프레이어와 근접 무기를 준비하세요.",
+  "dw_mycofields": "6. 마이코필드 + 안테버스 연소제",
+  "dw_mycofields_desc": "레벨 5의 버섯 방에 와서 고름을 삽입하고 포털을 여세요.",
+  
+  "dw_panel_continued": "(5) 계속됨",
+  "dw_continued_desc": "더 많은 흥미진진한 콘텐츠가 계속 업데이트되고 있습니다.",
+  "dw_security_sector": "보안 섹터 - 가나안",
+  "dw_cloud_reactor": "클라우드 리액터",
+  "dw_mist_reactor": "미스트 리액터",
+  "dw_gale_reactor": "게일 리액터",
+  "dw_botanical_wing": "식물원",
+  "dw_cold_fusion": "저온 핵융합"
+}

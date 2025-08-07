@@ -1,0 +1,200 @@
+{
+  "page_title": "Guide Abiotic Factor - Guide Complet du Jeu et Cartes",
+  "page_description": "Guide complet pour le jeu Abiotic Factor incluant tutoriel, cartes, conseils et stratégies de survie.",
+  
+  "site_title": "Guide Abiotic Factor",
+  "select_language": "Sélectionner la Langue",
+  "english": "Français",
+  
+  "nav_introduction": "Introduction",
+  "nav_main_process": "Processus Principal",
+  "nav_guide_map": "Carte Guide",
+  "nav_valuation": "Avis",
+  
+  "intro_title": "Le jeu de survie le plus populaire de 2025 !",
+  "intro_description": "Abiotic Factor est une expérience de survie et d'artisanat coopératif (1-6 joueurs). Le jeu se déroule dans un établissement de recherche souterrain infesté de menaces surnaturelles. En tant que scientifiques parmi les plus brillants au monde, vous devez vous unir pour fabriquer divers outils et armes ingénieux afin de survivre. Vous le savez bien, il n'y a qu'une seule voie vers la survie : utiliser la science pour les éliminer !",
+  "intro_release_date": "Le jeu a été lancé en accès anticipé le 2 mai 2024, la version complète 1.0 est sortie le 22 juillet 2025.",
+  
+  "video_title": "Abiotic Factor - Bande-annonce de Sortie 1.0",
+  "version_available": "1.0 DISPONIBLE MAINTENANT",
+  "youtube_link": "YouTube",
+  
+  "main_process_title": "Processus Principal",
+  
+  "step_game_settings": "Paramètres du Jeu",
+  "initial_setup": "Configuration Initiale",
+  "choosing_jobs": "Choisir Métiers et Traits",
+  "character_stats": "Statistiques du Personnage",
+  "onboarding": "Intégration",
+  "training": "Formation",
+  "crafting_keypad": "Fabrication Pirate Clavier",
+  "before_tier_2": "Avant Niveau 2",
+  "using_workbench": "Utiliser l'Établi",
+  
+  "step_office_sector": "Secteur Bureau",
+  "opening_cafeteria": "Ouvrir la Porte de la Cafétéria",
+  "cooking_basic_food": "Cuisiner de la Nourriture de Base",
+  "building_home_base": "Construire une Base",
+  "crossing_nuclear_gad": "Traverser l'Appareil Nucléaire",
+  "zombie_portal_world": "Monde du Portail Zombie",
+  
+  "step_manufacture": "Secteur Fabrication",
+  "crafting_keypad_tier2": "Fabriquer Pirate Clavier Niveau 2",
+  "flooded_office": "Chaque emploi correspond à différents équipements et points d'attribut initiaux. Les compétences ont des avantages positifs et des inconvénients",
+  "mycofields": "selon la combinaison que vous choisissez.",
+  "flathill": "Le zombie Flathill a été bloqué et se trouve dans",
+  "poison_security": "le coin avec les deux meilleurs du site de recherche",
+  "accessing_electronic": "Accéder à l'Électronique",
+  "containing_security_bots": "Contenir les Procédures Électroniques des Robots de Sécurité",
+  "obtaining_items": "Obtenir des Objets Tarasque",
+  "flathill_section": "Flathill",
+  "advanced_barn_agent": "Agent de Grange Avancé",
+  
+  "step_laboratories": "Laboratoires Cascade",
+  "crafting_keypad_tier3": "Fabriquer Pirate Clavier Niveau 3",
+  "labs_area": "Laboratoires dans le Niveau Zombie Flathill",
+  "lab_assistant": "Il est recommandé de sélectionner le métier « Assistant de Laboratoire ». Les capacités globales sont relativement équilibrées et c'est le bon choix qui possède l'outil idéal pour accomplir les missions.",
+  "providing_security": "Fournir des Systèmes de Sécurité pour le Dr.",
+  "connecting_power": "Connecter l'Alimentation et Capturer des Spécimens Inconnus.",
+  
+  "to_be_continued": "À suivre...",
+  
+  "detailed_walkthrough_title": "Guide Détaillé",
+  
+  "walkthrough_initial_setup": "1. Configuration Initiale",
+  "walkthrough_setup_desc": "Configurez vos paramètres préférés, y compris le nom du monde, la langue, la configuration système et d'autres paramètres.",
+  
+  "walkthrough_office_sector": "2. Secteur Bureau",
+  "walkthrough_office_desc": "Chaque emploi correspond à différents équipements et points d'attribut initiaux. Les compétences ont des avantages positifs et des inconvénients selon la combinaison que vous choisissez. Le zombie Flathill a été bloqué et se trouve dans le coin avec les deux meilleurs du site de recherche.",
+  
+  "walkthrough_manufacture": "3. Secteur Fabrication",
+  "walkthrough_manufacture_desc": "Chaque emploi correspond à différents équipements et points d'attribut initiaux. Les compétences ont des avantages positifs et des inconvénients selon la combinaison que vous choisissez. Le zombie Flathill a été bloqué et se trouve dans le coin avec les deux meilleurs du site de recherche.",
+  
+  "walkthrough_laboratories": "4. Laboratoires",
+  "walkthrough_laboratories_desc": "Il est recommandé de sélectionner le métier « Assistant de Laboratoire ». Les capacités globales sont relativement équilibrées et c'est le bon choix qui possède l'outil idéal pour accomplir les missions.",
+  
+  "walkthrough_continued": "5. À suivre",
+  "walkthrough_continued_desc": "Les attributs du jeu permettent au joueur de tester, boire, utiliser les toilettes, dormir et soigner les blessures dans le jeu. Les attributs du jeu peuvent être modifiés par les choix et l'expérience, y compris comment sélectionner la stratégie des toilettes.",
+  
+  "guide_map_title": "Carte Guide",
+  "office_sector": "SECTEUR BUREAU",
+  
+  "valuation_title": "Avis",
+  
+  "review1_content": "C'est actuellement l'un de mes jeux préférés en ligne. Ça se joue comme Half-Life mais en version jeu de survie-aventure inspiré de Half-Life, SCP, avec des mécaniques sombres et amusantes et une super ambiance.",
+  "review1_date": "il y a 1 semaine",
+  
+  "review2_content": "C'est un de ces jeux auxquels tu as juste envie de jouer encore et encore. Une narration géniale, un design fantastique, un gameplay excellent. J'adore.",
+  "review2_date": "il y a 6 jours",
+  
+  "review3_content": "Un des meilleurs jeux de son genre de la dernière décennie. Il rivalise avec beaucoup de titres AAA pour son gameplay approfondi, son exploration, son lore et sa progression.",
+  "review3_date": "il y a 5 jours",
+  
+  "review4_content": "Le jeu pourrait être correct mais augmenter le prix quand plus de gens vont y jouer via Game Pass/PlayStation Plus, c'est ridicule. Des développeurs pourris qui ne méritent plus d'être reconnus maintenant.",
+  "review4_date": "il y a 1 semaine",
+  
+  "review5_content": "Half-Life 1 avec une histoire plus profonde et des aspects de survie. J'apprécie énormément ce jeu.",
+  "review5_date": "il y a 1 semaine",
+  
+  "footer_description": "Un site guide convivial pour vous quand vous n'arrivez pas à atteindre vos objectifs.",
+  "game_title": "Jeu",
+  "language_title": "Langue",
+  "footer_copyright": "Guide Abiotic Factor. Tous droits réservés.",
+  
+  "loading": "Chargement...",
+  
+  "card_game_settings": "(I) Paramètres du jeu",
+  "card_initial_setup": "Configuration initiale",
+  "card_choosing_jobs": "Choisir métiers et traits",
+  "card_onboarding": "Intégration",
+  "card_training": "Formation",
+  
+  "card_office_sector": "(II) Secteur bureau",
+  "card_opening_cafeteria": "Ouvrir la porte cafétéria",
+  "card_building_home": "Construire une base",
+  "card_obtaining_power": "Obtenir cellule d'alimentation niveau 3",
+  "card_crafting_tier1": "Fabriquer pirate clavier niveau 1",
+  "card_entering_flathill": "Entrer dans Flathill",
+  
+  "card_manufacture": "(III) Secteur fabrication",
+  "card_crafting_tier2": "Fabriquer pirate clavier niveau 2",
+  "card_finding_frake": "Trouver Frake",
+  "card_repairing_pumps": "Réparer pompes électroniques",
+  
+  "card_laboratories": "(IV) Laboratoires",
+  "card_crafting_tier3": "Fabriquer pirate clavier niveau 3",
+  "card_zombie_portal": "Monde portail zombie",
+  "card_leyak_essence": "Obtenir essence Leyak",
+  "card_rescue_kahn": "Réinitialiser système sécurité sauver Dr. Kahn",
+  "card_tarasque_pus": "Obtenir ichor Tarasque",
+  "card_mycofields": "Mycofields + agent brûlure Anteverse",
+  
+  "card_continued": "(V) À suivre",
+  "card_security_sector": "Secteur sécurité - Canaan",
+  "card_cloud_reactor": "Réacteur nuage",
+  "card_mist_reactor": "Réacteur brume",
+  "card_gale_reactor": "Réacteur tempête",
+  "card_botanical_wing": "Aile botanique",
+  "card_cold_fusion": "Fusion froide",
+  
+  "dw_nav_settings": "(I) Paramètres du jeu",
+  "dw_nav_office": "(II) Secteur bureau",
+  "dw_nav_manufacture": "(III) Secteur fabrication",
+  "dw_nav_labs": "(IV) Laboratoires",
+  "dw_nav_continued": "(V) À suivre",
+  
+  "dw_panel_settings": "(I) Paramètres du jeu",
+  "dw_initial_setup": "1. Configuration initiale",
+  "dw_initial_setup_desc": "Configurez vos paramètres préférés, y compris le nom du monde, la langue, la configuration système, l'écran de veille et d'autres paramètres.",
+  "dw_choosing_jobs": "2. Choisir métiers et traits",
+  "dw_choosing_jobs_desc": "Chaque métier correspond à différentes compétences et points d'attribut initiaux. Les compétences ont des avantages positifs et des impacts négatifs. Vous pouvez choisir un métier qui convient à votre style de jeu pour expérimenter.\\nIl est recommandé de sélectionner le métier « Assistant de Laboratoire ». Les capacités globales sont relativement équilibrées et c'est le rôle central qui correspond le mieux au cadre de ce monde.",
+  
+  "dw_game_simulation": "Ce jeu simule la vraie vie - les joueurs doivent manger, boire, utiliser les toilettes, dormir et soigner les blessures dans le jeu. Faites attention au statut d'endurance de votre personnage.",
+  "dw_onboarding": "3. Intégration",
+  "dw_onboarding_desc": "Cette étape suit la progression de l'histoire. Après avoir sélectionné votre métier, vous serez conduit par Lance vers une zone déserte dans le désert. En marchant tout droit, vous verrez une petite cabane. Suivez les instructions du personnel de sécurité pour compléter les procédures d'intégration et prenez l'ascenseur pour entrer dans l'entreprise.",
+  "dw_training": "4. Formation",
+  "dw_training_desc": "Après être entré dans l'entreprise, quelqu'un fournira une formation. Vous devrez effectuer des opérations simples pour vous familiariser avec le gameplay, comme démonter des boîtes, connecter l'alimentation et capturer des entités échappées.",
+  
+  "dw_panel_office": "(II) Secteur bureau",
+  "dw_opening_cafeteria": "1. Ouvrir la porte cafétéria",
+  "dw_opening_cafeteria_desc": "La formation est interrompue à mi-chemin, et vous serez envoyé à la cafétéria du secteur bureau. Ici, vous rencontrerez le premier PNJ scientifique qui vous parlera et vous assignera une tâche.",
+  "dw_building_home": "2. Construire une base d'accueil",
+  "dw_building_home_desc": "Quittez la cafétéria et venez au centre du secteur bureau, qui est aussi le centre de toute la carte de jeu. L'agent de sécurité au poste de sécurité vous informe que vous pouvez partir d'ici par le secteur fabrication ouest.",
+  "dw_obtaining_power_cell": "3. Obtenir la cellule d'alimentation du niveau 3",
+  "dw_obtaining_power_cell_desc": "Actuellement, nous sommes au niveau 2. Tous les escaliers et ascenseurs sont bloqués. Vous devez trouver un bureau inondé, préparer des tables et chaises comme tremplins.",
+  "dw_crafting_tier1": "4. Fabriquer pirate clavier (niveau 1)",
+  "dw_crafting_tier1_desc": "Dr. Mayfield au niveau 3 nous dit que nous pouvons utiliser les CPU de robots de sécurité pour fabriquer un pirate clavier (niveau 1). Nous devons éliminer les robots de sécurité.",
+  "dw_entering_flathill": "5. Entrer dans Flathill",
+  "dw_entering_flathill_desc": "Obtenez la cellule d'alimentation, utilisez le pirate clavier pour ouvrir la porte à clavier au niveau 3, puis ouvrez et entrez dans le portail.",
+  
+  "dw_panel_manufacture": "(III) Secteur fabrication",
+  "dw_crafting_tier2": "1. Fabriquer pirate clavier (niveau 2)",
+  "dw_crafting_tier2_desc": "Mettez la cellule d'alimentation dans le chariot élévateur, et la porte du secteur fabrication ouest se lève lentement. Parlez à Varsha pour obtenir la tâche.",
+  "dw_finding_frake": "2. Trouver Frake",
+  "dw_finding_frake_desc": "Après avoir fabriqué le pirate clavier (niveau 2), montez du forgeron, tournez à droite dans une fosse minière.",
+  "dw_repairing_pumps": "3. Réparer les pompes électroniques",
+  "dw_repairing_pumps_desc": "Réparer les pompes électroniques nécessite d'échanger trois composants avec le forgeron.",
+  
+  "dw_panel_labs": "(IV) Laboratoires",
+  "dw_crafting_tier3": "1. Fabriquer pirate clavier (niveau 3)",
+  "dw_crafting_tier3_desc": "Entrer dans le grand trou vous amènera au bloc de confinement.",
+  "dw_zombie_portal": "2. Monde portail zombie",
+  "dw_zombie_portal_desc": "Avant d'entrer dans le monde portail, il est recommandé de préparer trois ponts et divers outils d'éclairage.",
+  "dw_obtaining_leyak": "3. Obtenir l'essence Leyak",
+  "dw_obtaining_leyak_desc": "Dans cette salle, il y a une porte verrouillée qui nécessite quatre essences Leyak.",
+  "dw_rescue_kahn": "4. Réinitialiser le système de sécurité pour sauver Dr. Kahn",
+  "dw_rescue_kahn_desc": "Il est recommandé de préparer une puissance de feu importante et des dispositifs d'augmentation de saut ici.",
+  "dw_obtaining_tarasque": "5. Obtenir l'ichor Tarasque",
+  "dw_obtaining_tarasque_desc": "Cela implique de combattre un boss, donc préparez des pulvérisateurs électriques et des armes de mêlée.",
+  "dw_mycofields": "6. Mycofields + Agent de brûlure Anteverse",
+  "dw_mycofields_desc": "Venez à la salle aux champignons au niveau 5, insérez l'ichor, ouvrez le portail.",
+  
+  "dw_panel_continued": "(V) À suivre",
+  "dw_continued_desc": "Plus de contenu passionnant continue d'être mis à jour.",
+  "dw_security_sector": "Secteur sécurité - Canaan",
+  "dw_cloud_reactor": "Réacteur nuage",
+  "dw_mist_reactor": "Réacteur brume",
+  "dw_gale_reactor": "Réacteur tempête",
+  "dw_botanical_wing": "Aile botanique",
+  "dw_cold_fusion": "Fusion froide"
+}

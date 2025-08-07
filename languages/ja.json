@@ -1,0 +1,200 @@
+{
+  "page_title": "Abiotic Factor ガイド - 完全ゲームガイド＆マップ",
+  "page_description": "Abiotic Factorゲームの完全ガイド。攻略、マップ、サバイバルのコツと戦略を含む。",
+  
+  "site_title": "Abiotic Factor ガイド",
+  "select_language": "言語を選択",
+  "english": "日本語",
+  
+  "nav_introduction": "紹介",
+  "nav_main_process": "メインプロセス",
+  "nav_guide_map": "ガイドマップ",
+  "nav_valuation": "レビュー",
+  
+  "intro_title": "2025年最も人気のサバイバルゲーム！",
+  "intro_description": "『Abiotic Factor』は協力サバイバルクラフト体験（1〜6名のプレイヤー）です。ゲームは超自然的脅威に溢れた研究施設が舞台となっています。地球最高の科学者として、あなたたちは団結し、巧妙な道具と武器を作り、生き残らなければなりません。生存の道は一つだけです：科学を使って敵を倒すことです！",
+  "intro_release_date": "ゲームは2024年5月2日にアーリーアクセスでリリースされました。完全版1.0は2025年7月22日にリリースされました。",
+  
+  "video_title": "Abiotic Factor - 1.0リリーストレーラー",
+  "version_available": "1.0利用可能",
+  "youtube_link": "YouTube",
+  
+  "main_process_title": "メインプロセス",
+  
+  "step_game_settings": "ゲーム設定",
+  "initial_setup": "初期設定",
+  "choosing_jobs": "職業と特性の選択",
+  "character_stats": "キャラクター統計",
+  "onboarding": "オンボーディング",
+  "training": "トレーニング",
+  "crafting_keypad": "キーパッドハッカーの製作",
+  "before_tier_2": "ティア2前",
+  "using_workbench": "ワークベンチの使用",
+  
+  "step_office_sector": "オフィスセクター",
+  "opening_cafeteria": "カフェテリアドアを開く",
+  "cooking_basic_food": "基本的な食べ物の調理",
+  "building_home_base": "ホームベースの建設",
+  "crossing_nuclear_gad": "核装置の横断",
+  "zombie_portal_world": "ゾンビポータル世界",
+  
+  "step_manufacture": "製造セクター",
+  "crafting_keypad_tier2": "ティア2キーパッドハッカーの製作",
+  "flooded_office": "各パスは異なる装備と初期属性ポイントに対応します。スキルには正の利益と短所の両方があります",
+  "mycofields": "選択する組み合わせによって異なります。",
+  "flathill": "ゾンビFlathillはブロックされており、",
+  "poison_security": "角と研究サイトからの2つの最高の場所にあります",
+  "accessing_electronic": "電子機器へのアクセス",
+  "containing_security_bots": "セキュリティボット手順電子機器の封じ込め",
+  "obtaining_items": "Tarasqueアイテムの取得",
+  "flathill_section": "Flathill",
+  "advanced_barn_agent": "高度な納屋エージェント",
+  
+  "step_laboratories": "Cascade研究所",
+  "crafting_keypad_tier3": "ティア3キーパッドハッカーの製作",
+  "labs_area": "ゾンビFlathillレベルの実験室",
+  "lab_assistant": "「ラボアシスタント」として職業を選択することをお勧めします。全体的な能力は比較的バランスが取れており、ミッション完了に理想的なツールを持つ正しい選択です。",
+  "providing_security": "博士へのセキュリティシステムの提供",
+  "connecting_power": "電力接続と未知の標本の捕獲。",
+  
+  "to_be_continued": "続く...",
+  
+  "detailed_walkthrough_title": "詳細攻略",
+  
+  "walkthrough_initial_setup": "1. 初期設定",
+  "walkthrough_setup_desc": "ワールド名、言語、システム構成、その他の設定を含む、お好みのパラメータを設定してください。",
+  
+  "walkthrough_office_sector": "2. オフィスセクター",
+  "walkthrough_office_desc": "各パスは異なる装備と初期属性ポイントに対応します。スキルには正の利益と短所の両方があり、選択する組み合わせによって異なります。ゾンビFlathillはブロックされており、角と研究サイトからの2つの最高の場所にあります。",
+  
+  "walkthrough_manufacture": "3. 製造セクター",
+  "walkthrough_manufacture_desc": "各パスは異なる装備と初期属性ポイントに対応します。スキルには正の利益と短所の両方があり、選択する組み合わせによって異なります。ゾンビFlathillはブロックされており、角と研究サイトからの2つの最高の場所にあります。",
+  
+  "walkthrough_laboratories": "4. 研究所",
+  "walkthrough_laboratories_desc": "「ラボアシスタント」として職業を選択することをお勧めします。全体的な能力は比較的バランスが取れており、ミッション完了に理想的なツールを持つ正しい選択です。",
+  
+  "walkthrough_continued": "5. 続く",
+  "walkthrough_continued_desc": "プレイヤーがゲーム内で食事、飲水、トイレ使用、睡眠、負傷治療ができるゲーム属性。選択と経験により変更できるゲーム属性、およびトイレ戦略の選択方法。",
+  
+  "guide_map_title": "ガイドマップ",
+  "office_sector": "オフィスセクター",
+  
+  "valuation_title": "レビュー",
+  
+  "review1_content": "これは現在オンラインでプレイする私のお気に入りゲームの一つです。Half-Lifeみたいにプレイできて、Half-Life、SCP、ダークで楽しいメカニクス、素晴らしい雰囲気にインスパイアされたサバイバルアドベンチャーゲームって感じです。",
+  "review1_date": "1週間前",
+  
+  "review2_content": "これはずっとプレイし続けたくなるタイプのゲームの一つです。素晴らしいナラティブ、デザイン、ゲームプレイ。大好きです。",
+  "review2_date": "6日前",
+  
+  "review3_content": "過去10年のジャンル最高ゲームの一つです。深いゲームプレイ、探索、設定、進行で多くのAAAタイトルと対抗できます。",
+  "review3_date": "5日前",
+  
+  "review4_content": "ゲーム自体は悪くないかもしれないけど、Game Pass/PlayStation Plusでもっと多くの人がプレイしようとするタイミングで値上げするのはありえない。今や評価に値しないひどい開発者です。",
+  "review4_date": "1週間前",
+  
+  "review5_content": "Half-Life 1をより深いストーリーとサバイバル要素で作った感じ。めちゃくちゃ楽しんでます。",
+  "review5_date": "1週間前",
+  
+  "footer_description": "目標を達成できない時のための親切なガイドウェブサイト。",
+  "game_title": "ゲーム",
+  "language_title": "言語",
+  "footer_copyright": "Abiotic Factor ガイド。全著作権所有。",
+  
+  "loading": "読み込み中...",
+  
+  "card_game_settings": "(I) ゲーム設定",
+  "card_initial_setup": "初期設定",
+  "card_choosing_jobs": "職業と特性の選択",
+  "card_onboarding": "オンボーディング",
+  "card_training": "トレーニング",
+  
+  "card_office_sector": "(II) オフィスセクター",
+  "card_opening_cafeteria": "カフェテリアドアを開く",
+  "card_building_home": "ベース建設",
+  "card_obtaining_power": "レベル3パワーセル取得",
+  "card_crafting_tier1": "キーパッドハッカーTier1製作",
+  "card_entering_flathill": "Flathill進入",
+  
+  "card_manufacture": "(III) 製造",
+  "card_crafting_tier2": "キーパッドハッカーTier2製作",
+  "card_finding_frake": "Frakeを見つける",
+  "card_repairing_pumps": "電子ポンプ修理",
+  
+  "card_laboratories": "(IV) 研究所",
+  "card_crafting_tier3": "キーパッドハッカーTier3製作",
+  "card_zombie_portal": "ゾンビポータル世界",
+  "card_leyak_essence": "Leyakエッセンス取得",
+  "card_rescue_kahn": "セキュリティシステムリセット Dr. Kahn救出",
+  "card_tarasque_pus": "Tarasqueイコル取得",
+  "card_mycofields": "Mycofields + Anteverseバーニングエージェント",
+  
+  "card_continued": "(V) 続く",
+  "card_security_sector": "セキュリティセクター - Canaan",
+  "card_cloud_reactor": "クラウドリアクター",
+  "card_mist_reactor": "ミストリアクター",
+  "card_gale_reactor": "ゲイルリアクター",
+  "card_botanical_wing": "植物園ウィング",
+  "card_cold_fusion": "冷核融合",
+  
+  "dw_nav_settings": "(I) ゲーム設定",
+  "dw_nav_office": "(II) オフィスセクター",
+  "dw_nav_manufacture": "(III) 製造",
+  "dw_nav_labs": "(IV) 研究所",
+  "dw_nav_continued": "(V) 続く",
+  
+  "dw_panel_settings": "(I) ゲーム設定",
+  "dw_initial_setup": "1. 初期設定",
+  "dw_initial_setup_desc": "ワールド名、言語、システム設定、スタンバイ画面など、お好みのパラメータを設定してください。",
+  "dw_choosing_jobs": "2. 職業と特性の選択",
+  "dw_choosing_jobs_desc": "各職業は異なるスキルと初期属性ポイントに対応しています。スキルには正の効果と負の影響があります。プレイスタイルに合った職業を選択して実験できます。\\n「ラボアシスタント」の職業を選択することをお勧めします。全体的な能力がバランス良く、この世界の設定に最も適したコア役割です。",
+  
+  "dw_game_simulation": "このゲームは現実生活をシミュレートします - プレイヤーはゲーム内で食事、飲水、トイレ使用、睡眠、負傷治療が必要です。キャラクターのスタミナ状態に注意してください。",
+  "dw_onboarding": "3. オンボーディング",
+  "dw_onboarding_desc": "このステップはストーリーの進行に従います。職業を選択した後、Lanceに砂漠の荒れた地域まで車で送ってもらいます。まっすぐ歩くと小屋が見えます。セキュリティ担当者の指示に従ってオンボーディング手続きを完了し、エレベーターで会社に入ります。",
+  "dw_training": "4. トレーニング",
+  "dw_training_desc": "会社に入った後、誰かがトレーニングを提供します。ゲームプレイに慣れるため、箱の解体、電源接続、逃走エンティティの捕獲などの簡単な操作を行う必要があります。",
+  
+  "dw_panel_office": "(II) オフィスセクター",
+  "dw_opening_cafeteria": "1. カフェテリアドアを開く",
+  "dw_opening_cafeteria_desc": "トレーニングが途中で中断され、オフィスセクターのカフェテリアに送られます。ここで最初の科学者NPCに会い、話しかけてタスクを受け取ります。",
+  "dw_building_home": "2. ホームベース建設",
+  "dw_building_home_desc": "カフェテリアを出て、オフィスセクターの中心に来ます。これはゲームマップ全体の中心でもあります。セキュリティポストのセキュリティ担当者が、ここから製造ウエストを通って出られることを教えてくれます。",
+  "dw_obtaining_power_cell": "3. レベル3からパワーセル取得",
+  "dw_obtaining_power_cell_desc": "現在、私たちはレベル2にいます。すべての階段とエレベーターがブロックされています。浸水したオフィスを見つけ、テーブルと椅子を足場として準備する必要があります。",
+  "dw_crafting_tier1": "4. キーパッドハッカー（Tier 1）製作",
+  "dw_crafting_tier1_desc": "レベル3のMayfield博士は、セキュリティボットのCPUを使用してキーパッドハッカー（Tier 1）を製作できると教えてくれます。セキュリティボットを倒す必要があります。",
+  "dw_entering_flathill": "5. Flathill進入",
+  "dw_entering_flathill_desc": "パワーセルを取得し、キーパッドハッカーを使用してレベル3のキーパッドドアを開き、ポータルを開いて入ります。",
+  
+  "dw_panel_manufacture": "(III) 製造",
+  "dw_crafting_tier2": "1. キーパッドハッカー（Tier 2）製作",
+  "dw_crafting_tier2_desc": "パワーセルをフォークリフトに入れると、製造ウエストのドアがゆっくりと上がります。Varshaと話してタスクを取得します。",
+  "dw_finding_frake": "2. Frakeを見つける",
+  "dw_finding_frake_desc": "キーパッドハッカー（Tier 2）を製作した後、鍛冶屋から上に行き、鉱山坑道へ右に曲がります。",
+  "dw_repairing_pumps": "3. 電子ポンプ修理",
+  "dw_repairing_pumps_desc": "電子ポンプの修理には、鍛冶屋と3つのコンポーネントを交換する必要があります。",
+  
+  "dw_panel_labs": "(IV) 研究所",
+  "dw_crafting_tier3": "1. キーパッドハッカー（Tier 3）製作",
+  "dw_crafting_tier3_desc": "大きな穴に入ると格納ブロックに連れて行かれます。",
+  "dw_zombie_portal": "2. ゾンビポータル世界",
+  "dw_zombie_portal_desc": "ポータル世界に入る前に、3つの橋と様々な照明ツールを準備することをお勧めします。",
+  "dw_obtaining_leyak": "3. Leyakエッセンス取得",
+  "dw_obtaining_leyak_desc": "この部屋には、4つのLeyakエッセンスが必要な鍵のかかったドアがあります。",
+  "dw_rescue_kahn": "4. セキュリティシステムをリセットしてDr. Kahnを救出",
+  "dw_rescue_kahn_desc": "ここでは強力な火力とジャンプブーストデバイスを準備することをお勧めします。",
+  "dw_obtaining_tarasque": "5. Tarasqueイコル取得",
+  "dw_obtaining_tarasque_desc": "これはボス戦を含むので、電気スプレーヤーと近接武器を準備してください。",
+  "dw_mycofields": "6. Mycofields + Anteverseバーニングエージェント",
+  "dw_mycofields_desc": "レベル5のマッシュルームルームに来て、イコルを挿入し、ポータルを開きます。",
+  
+  "dw_panel_continued": "(V) 続く",
+  "dw_continued_desc": "より多くのエキサイティングなコンテンツが継続的に更新されています。",
+  "dw_security_sector": "セキュリティセクター - Canaan",
+  "dw_cloud_reactor": "クラウドリアクター",
+  "dw_mist_reactor": "ミストリアクター",
+  "dw_gale_reactor": "ゲイルリアクター",
+  "dw_botanical_wing": "植物園ウィング",
+  "dw_cold_fusion": "冷核融合"
+}

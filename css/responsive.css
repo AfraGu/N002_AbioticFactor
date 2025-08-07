@@ -1,0 +1,597 @@
+/* Responsive Design for Abiotic Factor Theme */
+
+/* Mobile-first approach with progressive enhancement */
+
+/* Base styles (Mobile: 320px+) already defined in main.css */
+
+/* Small Mobile (up to 480px) */
+@media (max-width: 480px) {
+    :root {
+        --font-size-5xl: 2rem;
+        --font-size-4xl: 1.75rem;
+        --font-size-3xl: 1.5rem;
+        --spacing-3xl: 2rem;
+        --spacing-2xl: 1.5rem;
+    }
+    
+    .container {
+        padding: 0 var(--spacing-sm);
+    }
+    
+    .header-container {
+        padding: var(--spacing-sm);
+        flex-direction: column;
+        gap: var(--spacing-sm);
+    }
+    
+    .main-nav {
+        flex-direction: column;
+        gap: var(--spacing-sm);
+        width: 100%;
+    }
+    
+    .main-nav a {
+        text-align: center;
+        padding: var(--spacing-md);
+    }
+    
+    .language-toggle {
+        width: 100%;
+        text-align: center;
+    }
+    
+    /* Introduction Section */
+    .intro-content {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-xl);
+        text-align: center;
+    }
+    
+    .intro-game-logo {
+        width: 250px;
+        margin-bottom: var(--spacing-lg);
+    }
+    
+    .intro-text h1 {
+        font-size: var(--font-size-3xl);
+    }
+    
+    .youtube-player {
+        max-width: 100%;
+        margin-top: var(--spacing-xl);
+    }
+    
+    .youtube-player iframe {
+        height: 200px;
+    }
+    
+    .video-frame {
+        width: 250px;
+        height: 150px;
+    }
+    
+    /* Main Process Section */
+    .process-flow {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .process-step {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .process-arrow {
+        transform: rotate(90deg);
+        margin: var(--spacing-lg) 0;
+    }
+    
+    /* Guide Map Section */
+    .simple-simple-map-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+    
+    /* Reviews Section */
+    .reviews-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+    
+    /* Footer */
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+        text-align: center;
+    }
+    
+    .footer-links {
+        justify-content: center;
+    }
+    
+    .language-options {
+        align-items: center;
+    }
+    
+    /* Language Modal */
+    .language-modal-content {
+        margin: var(--spacing-sm);
+        width: calc(100% - 2 * var(--spacing-sm));
+    }
+    
+    .language-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Large Mobile / Small Tablet (481px - 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+    .intro-game-logo {
+        width: 280px;
+    }
+    
+    .youtube-player iframe {
+        height: 250px;
+    }
+    
+    .header-container {
+        flex-direction: row;
+    }
+    
+    .main-nav {
+        flex-direction: row;
+        gap: var(--spacing-md);
+    }
+    
+    .intro-content {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-2xl);
+    }
+    
+    .process-flow {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .process-step {
+        width: 250px;
+    }
+    
+    .process-arrow {
+        transform: rotate(90deg);
+        margin: var(--spacing-lg) 0;
+    }
+    
+            .simple-simple-map-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    
+    .reviews-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .footer-content {
+        grid-template-columns: 1fr 1fr;
+        gap: var(--spacing-xl);
+    }
+    
+    .language-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Tablet (769px - 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .intro-game-logo {
+        width: 320px;
+    }
+    
+    .youtube-player iframe {
+        height: 280px;
+    }
+    
+    .container {
+        padding: 0 var(--spacing-lg);
+    }
+    
+    .intro-content {
+        grid-template-columns: 1fr 1fr;
+        gap: var(--spacing-2xl);
+    }
+    
+    .main-logo {
+        width: 180px;
+    }
+    
+    .process-flow {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .process-step {
+        width: 180px;
+    }
+    
+    .process-arrow {
+        transform: none;
+        margin: 0;
+    }
+    
+    /* Hide some arrows on tablet for better layout */
+    .process-flow .process-arrow:nth-of-type(4),
+    .process-flow .process-arrow:nth-of-type(6) {
+        display: none;
+    }
+    
+    .simple-map-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .reviews-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .footer-content {
+        grid-template-columns: 1fr 2fr 1fr;
+    }
+    
+    .language-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Desktop (1025px - 1440px) */
+@media (min-width: 1025px) and (max-width: 1440px) {
+    .container {
+        max-width: 1200px;
+        padding: 0 var(--spacing-xl);
+    }
+    
+    .intro-content {
+        grid-template-columns: 1fr 1fr;
+        gap: var(--spacing-3xl);
+    }
+    
+    .main-logo {
+        width: 200px;
+    }
+    
+    .process-flow {
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+    
+    .process-step {
+        width: 200px;
+    }
+    
+    .simple-map-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .reviews-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .language-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* Large Desktop (1441px+) */
+@media (min-width: 1441px) {
+    .container {
+        max-width: 1400px;
+    }
+    
+    .intro-content {
+        grid-template-columns: 1fr 1fr;
+        gap: var(--spacing-3xl);
+    }
+    
+    .main-logo {
+        width: 220px;
+    }
+    
+    .process-flow {
+        gap: var(--spacing-2xl);
+    }
+    
+    .process-step {
+        width: 220px;
+    }
+    
+    .simple-map-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--spacing-2xl);
+    }
+    
+    .reviews-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: var(--spacing-2xl);
+    }
+}
+
+/* Landscape Mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    .introduction-section {
+        padding: calc(60px + var(--spacing-xl)) 0 var(--spacing-xl) 0;
+    }
+    
+    .intro-content {
+        grid-template-columns: 1fr 1fr;
+        gap: var(--spacing-xl);
+    }
+    
+    .intro-text h1 {
+        font-size: var(--font-size-2xl);
+    }
+    
+    .main-logo {
+        width: 120px;
+    }
+    
+    .video-frame {
+        width: 200px;
+        height: 120px;
+    }
+    
+    .fixed-header {
+        padding: var(--spacing-sm) 0;
+    }
+    
+    .header-container {
+        padding: var(--spacing-sm) var(--spacing-md);
+    }
+}
+
+/* High DPI / Retina Displays */
+@media (-webkit-min-device-pixel-ratio: 2),
+       (min-resolution: 192dpi) {
+    .header-logo,
+    .footer-logo-img,
+    .step-img,
+    .map-image,
+    .avatar-img {
+        image-rendering: -webkit-optimize-contrast;
+        image-rendering: crisp-edges;
+    }
+}
+
+/* Print Styles */
+@media print {
+    * {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+    
+    .fixed-header,
+    .language-modal,
+    .map-modal,
+    .loading-indicator,
+    .youtube-link,
+    .language-toggle,
+    .footer-lang-btn {
+        display: none !important;
+    }
+    
+    .main-content {
+        margin-top: 0 !important;
+    }
+    
+    .container {
+        max-width: none !important;
+        padding: 0 !important;
+    }
+    
+    .intro-content,
+    .process-flow,
+    .simple-map-grid,
+    .reviews-grid,
+    .footer-content {
+        display: block !important;
+    }
+    
+    .process-step,
+    .review-card,
+    .map-card {
+        page-break-inside: avoid;
+        border: 1px solid #ccc !important;
+        padding: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+    
+    .process-arrow {
+        display: none !important;
+    }
+}
+
+/* Motion Preferences */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+    
+    .loading-spinner {
+        animation: none !important;
+    }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+    :root {
+        --color-primary: #00ff88;
+        --color-secondary: #00ffaa;
+        --color-text-primary: #ffffff;
+        --color-text-secondary: #ffffff;
+        --color-bg-primary: #000000;
+        --color-bg-secondary: #111111;
+        --color-border: #ffffff;
+    }
+    
+    .process-step,
+    .review-card,
+    .map-card,
+    .language-btn {
+        border-width: 2px !important;
+    }
+}
+
+/* Touch Device Styles */
+@media (hover: none) and (pointer: coarse) {
+    .language-toggle,
+    .language-btn,
+    .footer-lang-btn,
+    .main-nav a {
+        min-height: 44px;
+        min-width: 44px;
+        padding: var(--spacing-md);
+    }
+    
+    .map-card:hover,
+    .process-step:hover,
+    .review-card:hover {
+        transform: none;
+    }
+    
+    .play-button {
+        width: 80px;
+        height: 80px;
+        font-size: var(--font-size-3xl);
+    }
+}
+
+/* Hover-capable devices */
+@media (hover: hover) and (pointer: fine) {
+    .main-nav a:hover {
+        transform: translateY(-2px);
+    }
+    
+    .process-step:hover {
+        transform: translateY(-8px);
+    }
+    
+    .map-card:hover {
+        transform: translateY(-10px);
+    }
+    
+    .review-card:hover {
+        transform: translateY(-3px);
+    }
+}
+
+/* Very Small Screens (up to 320px) */
+@media (max-width: 320px) {
+    :root {
+        --spacing-md: 0.75rem;
+        --spacing-lg: 1rem;
+        --spacing-xl: 1.25rem;
+    }
+    
+    .intro-text h1 {
+        font-size: var(--font-size-2xl);
+    }
+    
+    .section-title {
+        font-size: var(--font-size-2xl);
+    }
+    
+    .process-step,
+    .review-card {
+        padding: var(--spacing-md);
+    }
+    
+    .main-logo {
+        width: 120px;
+    }
+    
+    .video-frame {
+        width: 200px;
+        height: 120px;
+    }
+}
+
+/* Ultra-wide Screens */
+@media (min-width: 1920px) {
+    .container {
+        max-width: 1600px;
+    }
+    
+    .intro-content {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    
+    .process-flow {
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+}
+
+/* Specific adjustments for Abiotic Factor theme */
+@media (max-width: 768px) {
+    .version-badge {
+        font-size: var(--font-size-sm);
+        padding: var(--spacing-xs) var(--spacing-md);
+    }
+    
+    .youtube-link {
+        font-size: var(--font-size-sm);
+        padding: var(--spacing-xs) var(--spacing-md);
+    }
+    
+    .step-details li {
+        font-size: 0.8rem;
+    }
+    
+    .level-badge {
+        font-size: 0.7rem;
+        padding: 2px 6px;
+    }
+    
+    .level-number {
+        font-size: var(--font-size-base);
+    }
+}
+
+/* Navigation improvements for mobile */
+@media (max-width: 768px) {
+    .fixed-header {
+        position: relative;
+    }
+    
+    .introduction-section {
+        padding: var(--spacing-2xl) 0;
+    }
+    
+    .main-nav {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: var(--color-bg-modal);
+        border-top: 1px solid var(--color-border);
+        z-index: var(--z-header);
+        flex-direction: row;
+        justify-content: space-around;
+        padding: var(--spacing-sm);
+    }
+    
+    .main-nav a {
+        flex: 1;
+        text-align: center;
+        font-size: var(--font-size-xs);
+        padding: var(--spacing-xs);
+    }
+    
+    body {
+        padding-bottom: 60px; /* Space for fixed bottom nav */
+    }
+}

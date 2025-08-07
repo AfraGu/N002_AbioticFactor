@@ -1,0 +1,199 @@
+{
+  "page_title": "Guía Abiotic Factor - Guía Completa del Juego y Mapas",
+  "page_description": "Guía completa para el juego Abiotic Factor incluyendo walkthrough, mapas, consejos y estrategias de supervivencia.",
+  
+  "site_title": "Guía Abiotic Factor",
+  "select_language": "Seleccionar Idioma",
+  "english": "English",
+  
+  "nav_introduction": "Introducción",
+  "nav_main_process": "Proceso Principal",
+  "nav_guide_map": "Mapa Guía",
+  "nav_valuation": "Reseñas",
+  
+  "intro_title": "¡El juego de supervivencia más popular de 2025!",
+  "intro_description": "Abiotic Factor es una experiencia de supervivencia y crafting que desafía a los jugadores a sobrevivir y prosperar en las profundidades de una instalación de investigación subterránea. Con un enfoque en mecánicas de supervivencia realistas, progresión basada en equipo y una rica colección de opciones de investigación, Abiotic Factor obliga a los jugadores a pensar como científicos en un videojuego.",
+  "intro_release_date": "El juego fue lanzado el 2 de mayo de 2024 al público de Acceso Temprano. El lanzamiento completo está programado para la primavera de 2025 en PC y consola.",
+  
+  "video_title": "Abiotic Factor - Tráiler de Lanzamiento 1.0",
+  "version_available": "1.0 DISPONIBLE AHORA",
+  "youtube_link": "YouTube",
+  
+  "main_process_title": "Proceso Principal",
+  
+  "step_game_settings": "Configuraciones del Juego",
+  "initial_setup": "Configuración Inicial",
+  "choosing_jobs": "Eligiendo Trabajos y Características",
+  "character_stats": "Estadísticas del Personaje",
+  "onboarding": "Incorporación",
+  "training": "Entrenamiento",
+  "crafting_keypad": "Creando Teclado",
+  "before_tier_2": "Antes del Nivel 2",
+  "using_workbench": "Usando Mesa de Trabajo",
+  
+  "step_office_sector": "Sector de Oficinas",
+  "opening_cafeteria": "Abriendo la Puerta de la Cafetería",
+  "cooking_basic_food": "Cocinando Comida Básica",
+  "building_home_base": "Construyendo Base Principal",
+  "crossing_nuclear_gad": "Cruzando Dispositivo Nuclear",
+  "zombie_portal_world": "Mundo del Portal Zombie",
+  
+  "step_manufacture": "Manufactura",
+  "crafting_keypad_tier2": "Creando Hacker de Teclado Nivel 2",
+  "flooded_office": "Cada camino corresponde a diferentes trajes y puntos de atributo iniciales. Las habilidades tienen beneficios positivos y contras",
+  "mycofields": "dependiendo de qué combinación elijas.",
+  "flathill": "El zombie Flathill ha sido bloqueado y está",
+  "poison_security": "en la esquina y dos mejores del sitio de investigación",
+  "accessing_electronic": "Accediendo a Electrónico",
+  "containing_security_bots": "Procedimientos de Contención de Bots de Seguridad",
+  "obtaining_items": "Obteniendo Objetos Tarasque",
+  "flathill_section": "Flathill",
+  "advanced_barn_agent": "Agente Avanzado del Granero",
+  
+  "step_laboratories": "Laboratorios",
+  "crafting_keypad_tier3": "Creando Hacker de Teclado Nivel 3",
+  "labs_area": "Laboratorios en el Nivel Zombie Flathill",
+  "lab_assistant": "Se recomienda seleccionar un trabajo como \"Asistente de Laboratorio\". La habilidad general es relativamente equilibrada y es la elección correcta con una herramienta ideal para completar misiones.",
+  "providing_security": "Proporcionando Sistemas de Seguridad para Responder Dr.",
+  "connecting_power": "Conectando Energía y Capturando Especímenes Desconocidos",
+  
+  "to_be_continued": "Continuará...",
+  
+  "detailed_walkthrough_title": "Walkthrough Detallado",
+  
+  "walkthrough_initial_setup": "1. Configuración Inicial",
+  "walkthrough_setup_desc": "Cuando realizas parámetros, incluyendo nombre del mundo, idioma, configuración del sistema, nombres de respaldo y otras configuraciones.",
+  
+  "walkthrough_office_sector": "2. Sector de Oficinas",
+  "walkthrough_office_desc": "Cada camino corresponde a diferentes trajes y puntos de atributo iniciales. Las habilidades tienen beneficios positivos y contras dependiendo de qué combinación elijas. El zombie Flathill ha sido bloqueado y está en la esquina y dos mejores del sitio de investigación.",
+  
+  "walkthrough_manufacture": "3. Manufactura",
+  "walkthrough_manufacture_desc": "Cada camino corresponde a diferentes trajes y puntos de atributo iniciales. Las habilidades tienen beneficios positivos y contras dependiendo de qué combinación elijas. El zombie Flathill ha sido bloqueado y está en la esquina y dos mejores del sitio de investigación.",
+  
+  "walkthrough_laboratories": "4. Laboratorios",
+  "walkthrough_laboratories_desc": "Se recomienda seleccionar un trabajo como \"Asistente de Laboratorio\". La habilidad general es relativamente equilibrada y es la elección correcta con una herramienta ideal para completar misiones.",
+  
+  "walkthrough_continued": "5. Continuará",
+  "walkthrough_continued_desc": "Los atributos del juego que pueden ser probados por el jugador, beber, usar el baño, dormir y curar heridas en el juego. Los atributos del juego que pueden ser cambiados en el juego por elecciones y experiencia del baño, y cómo seleccionar la estrategia del baño.",
+  
+  "guide_map_title": "Mapa Guía",
+  "office_sector": "SECTOR DE OFICINAS",
+  
+  "valuation_title": "Reseñas",
+  
+  "review1_content": "Este es actualmente uno de mis juegos favoritos para jugar en línea. Se juega como Half Life si pudieras hacer un juego de aventura de supervivencia inspirado en Half Life, SCP, mecánicas oscuras y divertidas, y una atmósfera genial.",
+  "review1_date": "hace 1 semana",
+  
+  "review2_content": "Este es uno de esos juegos que simplemente querés seguir jugando y jugando. Qué gran narrativa, diseño, gameplay. Me encanta.",
+  "review2_date": "hace 6 días",
+  
+  "review3_content": "Uno de los mejores juegos de su género en la última década. Le hace competencia a muchos títulos AAA por su gameplay profundo, exploración, lore y progresión.",
+  "review3_date": "hace 5 días",
+  
+  "review4_content": "El juego puede estar bien pero subir el precio cuando más gente va a jugarlo por Game Pass/PlayStation Plus es ridículo. Desarrolladores pésimos que no merecen reconocimiento ahora.",
+  "review4_date": "hace 1 semana",
+  
+  "review5_content": "Half-life 1 con una historia más profunda y aspectos de supervivencia. Lo estoy disfrutando muchísimo.",
+  "review5_date": "hace 1 semana",
+  
+  "footer_description": "Un sitio web de guía amigable para vos cuando no podés lograr tus objetivos.",
+  "game_title": "Juego",
+  "language_title": "Idioma",
+  "footer_copyright": "Guía Abiotic Factor. Todos los derechos reservados.",
+  
+  "loading": "Cargando...",
+
+  "card_game_settings": "(I) Configuración del juego",
+  "card_initial_setup": "Configuración inicial",
+  "card_choosing_jobs": "Elegir trabajos y rasgos",
+  "card_onboarding": "Incorporación",
+  "card_training": "Entrenamiento",
+
+  "card_office_sector": "(II) Sector de oficinas",
+  "card_opening_cafeteria": "Abrir puerta de cafetería",
+  "card_building_home": "Construir base",
+  "card_obtaining_power": "Obtener batería del nivel 3",
+  "card_crafting_tier1": "Fabricar hacker de teclado nivel 1",
+  "card_entering_flathill": "Entrar a Flathill",
+
+  "card_manufacture": "(III) Manufactura",
+  "card_crafting_tier2": "Fabricar hacker de teclado nivel 2",
+  "card_finding_frake": "Encontrar a Frake",
+  "card_repairing_pumps": "Reparar bombas electrónicas",
+
+  "card_laboratories": "(IV) Laboratorios",
+  "card_crafting_tier3": "Fabricar hacker de teclado nivel 3",
+  "card_zombie_portal": "Mundo portal zombi",
+  "card_leyak_essence": "Obtener esencia Leyak",
+  "card_rescue_kahn": "Restablecer sistema de seguridad y salvar al Dr. Kahn",
+  "card_tarasque_pus": "Obtener pus Tarasque",
+  "card_mycofields": "Campos de hongos + agente quemador Anteverse",
+
+  "card_continued": "(V) Continuará",
+  "card_security_sector": "Sector de seguridad - Canaán",
+  "card_cloud_reactor": "Reactor de nubes",
+  "card_mist_reactor": "Reactor de niebla",
+  "card_gale_reactor": "Reactor de vendaval",
+  "card_botanical_wing": "Ala botánica",
+  "card_cold_fusion": "Fusión fría",
+
+  "dw_nav_settings": "(I) Configuración del juego",
+  "dw_nav_office": "(II) Sector de oficinas",
+  "dw_nav_manufacture": "(III) Manufactura",
+  "dw_nav_labs": "(IV) Laboratorios",
+  "dw_nav_continued": "(V) Continuará",
+
+  "dw_panel_settings": "(I) Configuración del juego",
+  "dw_initial_setup": "1. Configuración inicial",
+  "dw_initial_setup_desc": "Configurá tus parámetros preferidos, incluyendo el nombre del mundo, idioma, configuración del sistema, pantalla de espera y otras configuraciones.",
+  "dw_choosing_jobs": "2. Elegir trabajos y rasgos",
+  "dw_choosing_jobs_desc": "Cada trabajo corresponde a diferentes habilidades y puntos de atributo iniciales. Las habilidades tienen beneficios positivos e impactos negativos. Podés elegir un trabajo que se adapte a tu estilo de juego.\\nSe recomienda seleccionar un trabajo como \"Asistente de Laboratorio\". La capacidad general es relativamente equilibrada y es el rol central que mejor se ajusta al entorno de este mundo.",
+  "dw_game_simulation": "Este juego simula la vida real: los jugadores deben comer, beber, usar el baño, dormir y curar heridas en el juego. Prestá atención al estado de resistencia de tu personaje.",
+  "dw_onboarding": "3. Incorporación",
+  "dw_onboarding_desc": "Este paso sigue la progresión de la historia. Después de seleccionar mi trabajo, Lance me llevará a un área desierta en el desierto. Caminando hacia adelante, verás una pequeña cabaña.",
+  "dw_training": "4. Entrenamiento",
+  "dw_training_desc": "Después de ingresar a la empresa, alguien te dará entrenamiento. Vas a tener que realizar operaciones simples para familiarizarte con la jugabilidad.",
+
+  "dw_panel_office": "(II) Sector de oficinas",
+  "dw_opening_cafeteria": "1. Abrir la puerta de la cafetería",
+  "dw_opening_cafeteria_desc": "El entrenamiento se interrumpe a la mitad y me van a mandar a la cafetería en el sector de oficinas. Acá voy a conocer al primer NPC científico.",
+  "dw_building_home": "2. Construir una base",
+  "dw_building_home_desc": "Salí de la cafetería y vení al centro del sector de oficinas, que también es el centro de todo el mapa del juego.",
+  "dw_obtaining_power_cell": "3. Obtener la celda de energía del nivel 3",
+  "dw_obtaining_power_cell_desc": "Actualmente estamos en el nivel 2. Todas las escaleras y elevadores están bloqueados. Tenés que encontrar una oficina inundada.",
+  "dw_crafting_tier1": "4. Crear hacker de teclado (nivel 1)",
+  "dw_crafting_tier1_desc": "La Dr. Mayfield en el nivel 3 nos dice que podemos usar CPUs de robots de seguridad para crear un hacker de teclado (nivel 1).",
+  "dw_entering_flathill": "5. Entrar a Flathill",
+  "dw_entering_flathill_desc": "Conseguí la celda de energía, usá el hacker de teclado para abrir la puerta del teclado en el nivel 3.",
+
+  "dw_panel_manufacture": "(III) Manufactura",
+  "dw_crafting_tier2": "1. Crear hacker de teclado (nivel 2)",
+  "dw_crafting_tier2_desc": "Poné la celda de energía en la carretilla elevadora y la puerta oeste de manufactura se eleva lentamente.",
+  "dw_finding_frake": "2. Encontrar a Frake",
+  "dw_finding_frake_desc": "Después de crear el hacker de teclado (nivel 2), subí desde el herrero.",
+  "dw_repairing_pumps": "3. Reparar bombas electrónicas",
+  "dw_repairing_pumps_desc": "Reparar bombas electrónicas requiere intercambiar tres componentes con el herrero.",
+
+  "dw_panel_labs": "(IV) Laboratorios",
+  "dw_crafting_tier3": "1. Crear hacker de teclado (nivel 3)",
+  "dw_crafting_tier3_desc": "Entrar al gran agujero te va a llevar al bloque de contención.",
+  "dw_zombie_portal": "2. Mundo portal zombi",
+  "dw_zombie_portal_desc": "Antes de ingresar al mundo portal, se recomienda preparar tres puentes y varias herramientas de iluminación.",
+  "dw_obtaining_leyak": "3. Obtener esencia Leyak",
+  "dw_obtaining_leyak_desc": "En esta habitación, hay una puerta cerrada que requiere cuatro esencias Leyak.",
+  "dw_rescue_kahn": "4. Restablecer sistema de seguridad para rescatar al Dr. Kahn",
+  "dw_rescue_kahn_desc": "Nota: Se recomienda preparar potencia de fuego poderosa y dispositivos de impulso de salto acá.",
+  "dw_obtaining_tarasque": "5. Obtener pus Tarasque",
+  "dw_obtaining_tarasque_desc": "Nota: Esto implica luchar contra un jefe, así que prepará pulverizadores eléctricos y armas cuerpo a cuerpo.",
+  "dw_mycofields": "6. Campos de hongos + agente quemador Anteverse",
+  "dw_mycofields_desc": "Andá a la sala de hongos en el nivel 5, insertá el pus, abrí el portal.",
+
+  "dw_panel_continued": "(V) Continuará",
+  "dw_continued_desc": "Más contenido emocionante sigue siendo actualizado.",
+  "dw_security_sector": "Sector de seguridad - Canaán",
+  "dw_cloud_reactor": "Reactor de nubes",
+  "dw_mist_reactor": "Reactor de niebla",
+  "dw_gale_reactor": "Reactor de vendaval",
+  "dw_botanical_wing": "Ala botánica",
+  "dw_cold_fusion": "Fusión fría"
+}

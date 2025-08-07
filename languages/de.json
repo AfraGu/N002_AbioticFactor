@@ -1,0 +1,200 @@
+{
+  "page_title": "Abiotic Factor Leitfaden - Vollständiger Spielleitfaden & Karten",
+  "page_description": "Vollständiger Leitfaden für das Spiel Abiotic Factor inklusive Walkthrough, Karten, Tipps und Überlebensstrategien.",
+  
+  "site_title": "Abiotic Factor Leitfaden",
+  "select_language": "Sprache Auswählen",
+  "english": "Deutsch",
+  
+  "nav_introduction": "Einführung",
+  "nav_main_process": "Hauptprozess",
+  "nav_guide_map": "Leitfaden-Karte",
+  "nav_valuation": "Bewertungen",
+  
+  "intro_title": "Das beliebteste Überlebensspiel von 2025!",
+  "intro_description": "Abiotic Factor ist ein kooperatives Survival-Crafting-Erlebnis (1-6 Spieler). Das Spiel spielt in einer Forschungseinrichtung, die von übernatürlichen Bedrohungen überrannt wird. Als die brillantesten Wissenschaftler der Erde müsst ihr euch zusammenschließen, geniale Werkzeuge und Waffen herstellen und auf die einzige Art überleben, die ihr kennt: Tötet sie mit Wissenschaft!",
+  "intro_release_date": "Das Spiel wurde am 2. Mai 2024 im Early Access veröffentlicht. Die Vollversion 1.0 ist am 22. Juli 2025 erschienen.",
+  
+  "video_title": "Abiotic Factor - 1.0 Release-Trailer",
+  "version_available": "1.0 JETZT VERFÜGBAR",
+  "youtube_link": "YouTube",
+  
+  "main_process_title": "Hauptprozess",
+  
+  "step_game_settings": "Spieleinstellungen",
+  "initial_setup": "Grundeinrichtung",
+  "choosing_jobs": "Jobs und Eigenschaften Wählen",
+  "character_stats": "Charakterwerte",
+  "onboarding": "Einarbeitung",
+  "training": "Training",
+  "crafting_keypad": "Keypad-Hacker Herstellen",
+  "before_tier_2": "Vor Stufe 2",
+  "using_workbench": "Werkbank Verwenden",
+  
+  "step_office_sector": "Bürobereich",
+  "opening_cafeteria": "Cafeteria-Tür Öffnen",
+  "cooking_basic_food": "Grundnahrung Kochen",
+  "building_home_base": "Basis Errichten",
+  "crossing_nuclear_gad": "Nukleargerät Überqueren",
+  "zombie_portal_world": "Zombie-Portal-Welt",
+  
+  "step_manufacture": "Fertigungsbereich",
+  "crafting_keypad_tier2": "Keypad-Hacker Stufe 2 Herstellen",
+  "flooded_office": "Jeder Pfad entspricht verschiedenen Ausrüstungen und anfänglichen Attributspunkten. Fähigkeiten haben sowohl positive Vorteile als auch Nachteile",
+  "mycofields": "je nach gewählter Kombination.",
+  "flathill": "Der Zombie Flathill wurde blockiert und befindet sich in",
+  "poison_security": "der Ecke mit den zwei besten der Forschungsstation",
+  "accessing_electronic": "Elektronik Zugreifen",
+  "containing_security_bots": "Sicherheitsroboter-Verfahren Elektronik Eindämmen",
+  "obtaining_items": "Tarasque-Gegenstände Erhalten",
+  "flathill_section": "Flathill",
+  "advanced_barn_agent": "Fortgeschrittener Scheinen-Agent",
+  
+  "step_laboratories": "Cascade Laboratories",
+  "crafting_keypad_tier3": "Keypad-Hacker Stufe 3 Herstellen",
+  "labs_area": "Labore im Zombie Flathill Level",
+  "lab_assistant": "Es wird empfohlen, den Job \"Laborassistent\" zu wählen. Die Gesamtfähigkeiten sind relativ ausgewogen und es ist die richtige Wahl mit dem idealen Werkzeug für den Missionsstatus.",
+  "providing_security": "Sicherheitssysteme für Dr. Bereitstellen",
+  "connecting_power": "Strom Anschließen und Unbekannte Exemplare Einfangen.",
+  
+  "to_be_continued": "Wird fortgesetzt...",
+  
+  "detailed_walkthrough_title": "Detaillierter Walkthrough",
+  
+  "walkthrough_initial_setup": "1. Grundeinrichtung",
+  "walkthrough_setup_desc": "Konfigurieren Sie Ihre bevorzugten Parameter, einschließlich Weltname, Sprache, Systemkonfiguration und andere Einstellungen.",
+  
+  "walkthrough_office_sector": "2. Bürobereich",
+  "walkthrough_office_desc": "Jeder Pfad entspricht verschiedenen Ausrüstungen und anfänglichen Attributspunkten. Fähigkeiten haben sowohl positive Vorteile als auch Nachteile je nach gewählter Kombination. Der Zombie Flathill wurde blockiert und befindet sich in der Ecke mit den zwei besten der Forschungsstation.",
+  
+  "walkthrough_manufacture": "3. Fertigungsbereich",
+  "walkthrough_manufacture_desc": "Jeder Pfad entspricht verschiedenen Ausrüstungen und anfänglichen Attributspunkten. Fähigkeiten haben sowohl positive Vorteile als auch Nachteile je nach gewählter Kombination. Der Zombie Flathill wurde blockiert und befindet sich in der Ecke mit den zwei besten der Forschungsstation.",
+  
+  "walkthrough_laboratories": "4. Laboratorien",
+  "walkthrough_laboratories_desc": "Es wird empfohlen, den Job \"Laborassistent\" zu wählen. Die Gesamtfähigkeiten sind relativ ausgewogen und es ist die richtige Wahl mit dem idealen Werkzeug für den Missionsstatus.",
+  
+  "walkthrough_continued": "5. Wird fortgesetzt",
+  "walkthrough_continued_desc": "Die Spielattribute ermöglichen es dem Spieler zu testen, zu trinken, die Toilette zu benutzen, zu schlafen und Verletzungen im Spiel zu heilen. Die Spielattribute können durch Entscheidungen und Erfahrungen verändert werden, einschließlich der Auswahl der Toilettenstrategie.",
+  
+  "guide_map_title": "Leitfaden-Karte",
+  "office_sector": "BÜROBEREICH",
+  
+  "valuation_title": "Bewertungen",
+  
+  "review1_content": "Das ist derzeit eines meiner Lieblingsspiele zum Online-Spielen. Es spielt sich wie Half-Life, wenn man ein Survival-Adventure-Spiel hätte, das von Half-Life, SCP inspiriert ist, mit dunklen, spaßigen Mechaniken und toller Atmosphäre.",
+  "review1_date": "vor 1 Woche",
+  
+  "review2_content": "Das ist eines dieser Spiele, die man einfach immer weiter spielen will. So eine großartige Erzählung, Design, Gameplay. Liebe es.",
+  "review2_date": "vor 6 Tagen",
+  
+  "review3_content": "Eines der besten Spiele seines Genres im letzten Jahrzehnt. Macht vielen AAA-Titeln Konkurrenz mit seinem tiefgreifenden Gameplay, der Erkundung, Lore und Progression.",
+  "review3_date": "vor 5 Tagen",
+  
+  "review4_content": "Das Spiel könnte okay sein, aber den Preis zu erhöhen, wenn mehr Leute über Game Pass/PlayStation Plus spielen werden, ist lächerlich. Schreckliche Entwickler, die jetzt keine Anerkennung verdienen.",
+  "review4_date": "vor 1 Woche",
+  
+  "review5_content": "Half-Life 1 mit einer tieferen Geschichte und Überlebensaspekten. Ich genieße das ungemein.",
+  "review5_date": "vor 1 Woche",
+  
+  "footer_description": "Eine freundliche Leitfaden-Website für Sie, wenn Sie Ihre Ziele nicht erreichen können.",
+  "game_title": "Spiel",
+  "language_title": "Sprache",
+  "footer_copyright": "Abiotic Factor Leitfaden. Alle Rechte vorbehalten.",
+  
+  "loading": "Laden...",
+  
+  "card_game_settings": "(I) Spieleinstellungen",
+  "card_initial_setup": "Grundeinrichtung",
+  "card_choosing_jobs": "Jobs und Eigenschaften wählen",
+  "card_onboarding": "Einarbeitung",
+  "card_training": "Training",
+  
+  "card_office_sector": "(II) Bürobereich",
+  "card_opening_cafeteria": "Cafeteria-Tür öffnen",
+  "card_building_home": "Basis bauen",
+  "card_obtaining_power": "Level 3 Energiezelle holen",
+  "card_crafting_tier1": "Keypad-Hacker Stufe 1 herstellen",
+  "card_entering_flathill": "Flathill betreten",
+  
+  "card_manufacture": "(III) Fertigung",
+  "card_crafting_tier2": "Keypad-Hacker Stufe 2 herstellen",
+  "card_finding_frake": "Frake finden",
+  "card_repairing_pumps": "Elektronische Pumpen reparieren",
+  
+  "card_laboratories": "(IV) Laboratorien",
+  "card_crafting_tier3": "Keypad-Hacker Stufe 3 herstellen",
+  "card_zombie_portal": "Zombie-Portal-Welt",
+  "card_leyak_essence": "Leyak-Essenz erhalten",
+  "card_rescue_kahn": "Sicherheitssystem zurücksetzen Dr. Kahn retten",
+  "card_tarasque_pus": "Tarasque-Ichor erhalten",
+  "card_mycofields": "Mycofields + Anteverse-Brennstoff",
+  
+  "card_continued": "(V) Wird fortgesetzt",
+  "card_security_sector": "Sicherheitsbereich - Canaan",
+  "card_cloud_reactor": "Cloud-Reaktor",
+  "card_mist_reactor": "Nebel-Reaktor",
+  "card_gale_reactor": "Sturm-Reaktor",
+  "card_botanical_wing": "Botanischer Flügel",
+  "card_cold_fusion": "Kalte Fusion",
+  
+  "dw_nav_settings": "(I) Spieleinstellungen",
+  "dw_nav_office": "(II) Bürobereich",
+  "dw_nav_manufacture": "(III) Fertigung",
+  "dw_nav_labs": "(IV) Laboratorien",
+  "dw_nav_continued": "(V) Wird fortgesetzt",
+  
+  "dw_panel_settings": "(I) Spieleinstellungen",
+  "dw_initial_setup": "1. Grundeinrichtung",
+  "dw_initial_setup_desc": "Konfigurieren Sie Ihre bevorzugten Parameter, einschließlich Weltname, Sprache, Systemkonfiguration, Standby-Bildschirm und andere Einstellungen.",
+  "dw_choosing_jobs": "2. Jobs und Eigenschaften wählen",
+  "dw_choosing_jobs_desc": "Jeder Job entspricht verschiedenen Fähigkeiten und anfänglichen Attributspunkten. Fähigkeiten haben sowohl positive Vorteile als auch negative Auswirkungen. Sie können einen Job wählen, der zu Ihrem Spielstil passt.\\nEs wird empfohlen, den Job \"Laborassistent\" zu wählen. Die Gesamtfähigkeiten sind relativ ausgewogen und es ist die zentrale Rolle, die am besten zur Welteinstellung passt.",
+  
+  "dw_game_simulation": "Dieses Spiel simuliert das echte Leben - Spieler müssen im Spiel essen, trinken, die Toilette benutzen, schlafen und Verletzungen heilen. Achten Sie auf den Ausdauerstatus Ihres Charakters.",
+  "dw_onboarding": "3. Einarbeitung",
+  "dw_onboarding_desc": "Dieser Schritt folgt dem Handlungsverlauf. Nach der Jobauswahl werde ich von Lance in ein verlassenes Gebiet in der Wüste gefahren. Wenn Sie geradeaus gehen, sehen Sie eine kleine Hütte. Befolgen Sie die Anweisungen des Sicherheitspersonals, um die Einarbeitungsverfahren abzuschließen und nehmen Sie den Aufzug, um das Unternehmen zu betreten.",
+  "dw_training": "4. Training",
+  "dw_training_desc": "Nach dem Betreten des Unternehmens wird jemand Training anbieten. Sie müssen einfache Operationen durchführen, um sich mit dem Gameplay vertraut zu machen, wie das Zerlegen von Kisten, das Anschließen von Strom und das Einfangen entwichener Entitäten.",
+  
+  "dw_panel_office": "(II) Bürobereich",
+  "dw_opening_cafeteria": "1. Cafeteria-Tür öffnen",
+  "dw_opening_cafeteria_desc": "Das Training wird auf halbem Weg unterbrochen und ich werde zur Cafeteria im Bürobereich geschickt. Hier treffe ich den ersten Wissenschaftler-NPC, der mit mir spricht und mir eine Aufgabe zuweist.",
+  "dw_building_home": "2. Basis bauen",
+  "dw_building_home_desc": "Verlassen Sie die Cafeteria und kommen Sie zum Zentrum des Bürobereichs, das auch das Zentrum der gesamten Spielkarte ist. Der Sicherheitsbeamte am Sicherheitsposten informiert Sie, dass Sie von hier über die westliche Fertigung gehen können.",
+  "dw_obtaining_power_cell": "3. Level 3 Energiezelle erhalten",
+  "dw_obtaining_power_cell_desc": "Derzeit sind wir auf Level 2. Alle Treppen und Aufzüge sind blockiert. Sie müssen ein überflutetes Büro finden und Tische und Stühle als Trittbretter vorbereiten.",
+  "dw_crafting_tier1": "4. Keypad-Hacker (Stufe 1) herstellen",
+  "dw_crafting_tier1_desc": "Dr. Mayfield auf Level 3 sagt uns, dass wir Sicherheitsroboter-CPUs verwenden können, um einen Keypad-Hacker (Stufe 1) herzustellen. Wir müssen die Sicherheitsroboter eliminieren.",
+  "dw_entering_flathill": "5. Flathill betreten",
+  "dw_entering_flathill_desc": "Holen Sie sich die Energiezelle, verwenden Sie den Keypad-Hacker, um die Keypad-Tür auf Level 3 zu öffnen, dann öffnen Sie das Portal und betreten es.",
+  
+  "dw_panel_manufacture": "(III) Fertigung",
+  "dw_crafting_tier2": "1. Keypad-Hacker (Stufe 2) herstellen",
+  "dw_crafting_tier2_desc": "Setzen Sie die Energiezelle in den Gabelstapler ein, und die westliche Fertigungstür steigt langsam auf. Sprechen Sie mit Varsha, um die Aufgabe zu erhalten.",
+  "dw_finding_frake": "2. Frake finden",
+  "dw_finding_frake_desc": "Nach dem Herstellen des Keypad-Hackers (Stufe 2) gehen Sie vom Schmied nach oben, biegen Sie rechts in eine Bergbaugrube ab.",
+  "dw_repairing_pumps": "3. Elektronische Pumpen reparieren",
+  "dw_repairing_pumps_desc": "Das Reparieren elektronischer Pumpen erfordert den Austausch von drei Komponenten mit dem Schmied.",
+  
+  "dw_panel_labs": "(IV) Laboratorien",
+  "dw_crafting_tier3": "1. Keypad-Hacker (Stufe 3) herstellen",
+  "dw_crafting_tier3_desc": "Das Betreten des großen Lochs bringt Sie zum Eindämmungsblock.",
+  "dw_zombie_portal": "2. Zombie-Portal-Welt",
+  "dw_zombie_portal_desc": "Vor dem Betreten der Portal-Welt wird empfohlen, drei Brücken und verschiedene Beleuchtungstools vorzubereiten.",
+  "dw_obtaining_leyak": "3. Leyak-Essenz erhalten",
+  "dw_obtaining_leyak_desc": "In diesem Raum gibt es eine verschlossene Tür, die vier Leyak-Essenzen benötigt.",
+  "dw_rescue_kahn": "4. Sicherheitssystem zurücksetzen, um Dr. Kahn zu retten",
+  "dw_rescue_kahn_desc": "Es wird empfohlen, hier starke Feuerkraft und Sprungverstärkungsgeräte vorzubereiten.",
+  "dw_obtaining_tarasque": "5. Tarasque-Ichor erhalten",
+  "dw_obtaining_tarasque_desc": "Dies beinhaltet einen Boss-Kampf, also bereiten Sie elektrische Sprüher und Nahkampfwaffen vor.",
+  "dw_mycofields": "6. Mycofields + Anteverse-Brennstoff",
+  "dw_mycofields_desc": "Kommen Sie zum Pilzraum auf Level 5, setzen Sie das Ichor ein, öffnen Sie das Portal.",
+  
+  "dw_panel_continued": "(V) Wird fortgesetzt",
+  "dw_continued_desc": "Mehr aufregende Inhalte werden kontinuierlich aktualisiert.",
+  "dw_security_sector": "Sicherheitsbereich - Canaan",
+  "dw_cloud_reactor": "Cloud-Reaktor",
+  "dw_mist_reactor": "Nebel-Reaktor",
+  "dw_gale_reactor": "Sturm-Reaktor",
+  "dw_botanical_wing": "Botanischer Flügel",
+  "dw_cold_fusion": "Kalte Fusion"
+}
