@@ -186,6 +186,17 @@ class LanguageManager {
     
     applyTranslations() {
         const elements = document.querySelectorAll('[data-translate]');
+        
+        // 如果是英文（默认语言），直接显示HTML中的原始内容，不进行翻译
+        if (this.currentLanguage === 'en') {
+            elements.forEach(element => {
+                // 对于英文，保持HTML中的原始内容，不进行任何替换
+                // 这样可以避免显示键值的问题
+            });
+            return;
+        }
+        
+        // 其他语言才进行翻译
         const currentTranslations = this.translations[this.currentLanguage] || {};
         const fallbackTranslations = this.translations[this.fallbackLanguage] || {};
         
